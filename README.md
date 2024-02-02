@@ -3,10 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Systems Administration</b>
-  -
-- <b>PowerShell</b>
-  - [Active Directory Domain Lab](https://github.com/James-Seiter/ActiveDirectoryLab/tree/main)
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://gith)
+  - [Active Directory Project](https://github.com/James-Seiter/ActiveDirectoryLab/tree/main)
+
 
 <h2>📛 Certifications</h2>
 
