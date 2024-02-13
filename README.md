@@ -4,6 +4,7 @@
 
 - <b>Systems Administration</b>
   - [Active Directory Project](https://github.com/James-Seiter/ActiveDirectoryLab/tree/main)
+  - [DNSSEC Configuration and Implementation](https://github.com/James-Seiter/DNSSEC-Lab/tree/main)
 
 
 <h2>📛 Certifications</h2>
