@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Security Operations</b>
+  - [SIEM Automation Project](https://github.com/James-Seiter/SIEM-Automation-Project/tree/main)
 - <b>Systems Administration</b>
   - [Active Directory Project](https://github.com/James-Seiter/ActiveDirectoryLab/tree/main)
   - [DNSSEC Configuration and Implementation](https://github.com/James-Seiter/DNSSEC-Lab/tree/main)
